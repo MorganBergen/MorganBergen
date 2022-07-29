@@ -27,7 +27,6 @@
             "software engineer",
             "iOS application enegineer",
             "blockchain developer",
-            "data scientist",
             "user interface designer"
         ];
     }
