@@ -22,4 +22,4 @@
         ];
     }
 
-s
+<iframe src="https://giphy.com/embed/4qjqqhAShKPZoa2wVg" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/4qjqqhAShKPZoa2wVg">via GIPHY</a></p>
