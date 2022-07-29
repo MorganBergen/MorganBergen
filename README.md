@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Hello%20World&fontSize=60"/>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=hello%20world!&fontSize=60"/>
     <img src="https://github.com/MorganBergen/MorganBergen/blob/main/logo.gif" alt="logo" width=35%>
 </p>
 
