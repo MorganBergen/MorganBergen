@@ -1,5 +1,5 @@
-# hello world! <img src="https://github.com/MorganBergen/MorganBergen/blob/main/logo.gif" alt="logo" width="20%">
-## there are over welcome to my github
+# hello world! <img src="https://github.com/MorganBergen/MorganBergen/blob/main/logo.gif" alt="logo" width="10%">
+# there are over 200 million repositories on welcome to my github
 
     let about_me = {
 
