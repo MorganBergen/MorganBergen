@@ -1,4 +1,4 @@
-# hello world! <img src="https://github.com/MorganBergen/MorganBergen/blob/main/logo.gif" alt="logo" width=400px; height=200px> 
+# hello world! <img src="https://github.com/MorganBergen/MorganBergen/blob/main/logo.gif" alt="logo" width=200px; height=200px> 
 
 ### There are over 80 million users on github, welcome to mine!
 
