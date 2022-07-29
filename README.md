@@ -1,9 +1,4 @@
 <img src="https://github.com/MorganBergen/MorganBergen/blob/main/logo.gif" alt="logo" width=30%>  
-
-# hello world!
-
-### There are over 80 million users on github, welcome to mine!
-
     let about_me = {
 
         name: "Morgan Maha Bergen",
