@@ -19,5 +19,5 @@
             "blockchain developer",
             "data scientist",
             "user interface designer"
-        ],
+        ];
     }
