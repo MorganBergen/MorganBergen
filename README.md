@@ -21,3 +21,5 @@
             "user interface designer"
         ];
     }
+
+<!-- ![logo GIF animation](https://github.com/MorganBergen/MorganBergen/blob/main/logo.gif) -->
