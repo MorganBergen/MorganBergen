@@ -1,4 +1,5 @@
 ### Welcome to my GitHub!
+<img src="https://github.com/MorganBergen/MorganBergen/blob/main/logo.gif" alt="logo" width="10%">
 
     let about_me = {
 
@@ -22,5 +23,5 @@
         ];
     }
 
-![logo GIF animation](https://github.com/MorganBergen/MorganBergen/blob/main/logo.gif)
-<img src="https://github.com/MorganBergen/MorganBergen/blob/main/logo.gif" alt="logo" width="50%">
+<!-- ![logo GIF animation](https://github.com/MorganBergen/MorganBergen/blob/main/logo.gif) -->
+
