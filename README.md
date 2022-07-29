@@ -26,7 +26,7 @@
         desired_roles: [
             "software engineer",
             "iOS application engineer",
-            "blockchain developer",
+            "blockchain engineer",
             "user interface designer"
         ];
     }
