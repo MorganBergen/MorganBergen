@@ -1,4 +1,4 @@
-### hello world! <img src="https://github.com/MorganBergen/MorganBergen/blob/main/logo.gif" alt="logo" width="10%">
+# hello world! <img src="https://github.com/MorganBergen/MorganBergen/blob/main/logo.gif" alt="logo" width="10%">
 
     let about_me = {
 
