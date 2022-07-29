@@ -1,16 +1,37 @@
-### Hi there 👋
+### Hey!
 
-<!--
-**MorganBergen/MorganBergen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+let morgan = {
 
-Here are some ideas to get you started:
+    name: [{
+        first: "Morgan",
+        middle: "Maha",
+        last: "Bergen",
+    }],
+    
+    species: "homo sapien",
+    birth_date: "March 24, 1998",
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    education: [
+        {
+            institution: "University of Kansas",
+            degree: "Bachelors of Science Computer Science",
+            year: "junior",
+            graduation_date: 2024
+        }
+    ],
+
+    desired_roles: [
+        "software engineer",
+        "iOS application enegineer",
+        "blockchain developer",
+        "data scientist",
+        "user interface designer"
+    ],
+
+    hometown: "Wichita, Kansas USA",
+    nationality: "American",
+    sex: 'female',
+    race: "white & middle eastern",
+    religion: "pantheism",
+    language: ["english", "عربى"]
+}
