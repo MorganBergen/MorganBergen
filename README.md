@@ -1,4 +1,4 @@
-<img src="https://github.com/MorganBergen/MorganBergen/blob/main/logo.gif" alt="logo" width=30%>  
+<img src="https://github.com/MorganBergen/MorganBergen/blob/main/logo.gif" alt="logo" width=35%>  
 
 
 
