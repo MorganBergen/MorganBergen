@@ -1,7 +1,9 @@
-### Hey!
+### Welcome to my GitHub!
 
-
-    let Morgan_Maha_Bergen = {
+    let about_me = {
+        
+        name: "Morgan Maha Bergen",
+        
         education: [
             {
                 institution: "University of Kansas",
