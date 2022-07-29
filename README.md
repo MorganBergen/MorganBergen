@@ -23,4 +23,4 @@
     }
 
 ![logo GIF animation](https://github.com/MorganBergen/MorganBergen/blob/main/logo.gif)
-<img src="https://github.com/MorganBergen/MorganBergen/blob/main/logo.gif" alt="logo" width="100%">
+<img src="https://github.com/MorganBergen/MorganBergen/blob/main/logo.gif" alt="logo" width="50%">
