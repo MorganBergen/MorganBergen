@@ -1,15 +1,6 @@
 ### Hey!
 
-let morgan = {
-
-    name: [{
-        first: "Morgan",
-        middle: "Maha",
-        last: "Bergen",
-    }],
-    
-    species: "homo sapien",
-    birth_date: "March 24, 1998",
+let Morgan_Maha_Bergen = {
 
     education: [
         {
@@ -27,11 +18,4 @@ let morgan = {
         "data scientist",
         "user interface designer"
     ],
-
-    hometown: "Wichita, Kansas USA",
-    nationality: "American",
-    sex: 'female',
-    race: "white & middle eastern",
-    religion: "pantheism",
-    language: ["english", "عربى"]
 }
