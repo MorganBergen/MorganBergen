@@ -1,5 +1,10 @@
+<h1 align="center">
+    
+    hello world!
+    
+</h1>
+
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=hello%20world!&fontSize=60"/>
     <img align="right" src="https://github.com/MorganBergen/MorganBergen/blob/main/logo.gif" alt="logo" width=50%>
 </p>
 
@@ -20,9 +25,8 @@
 
         desired_roles: [
             "software engineer",
-            "iOS application enegineer",
-            "blockchain developer",
-            "data scientist",
+            "iOS application engineer",
+            "blockchain engineer",
             "user interface designer"
         ];
     }
