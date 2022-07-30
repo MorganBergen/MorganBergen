@@ -22,19 +22,25 @@
 	<version>1</version>
 </factory>
 
-<factory id="4" uuid="7d468273c013498e9806a0d7bc32fddf">
+<factory id="4" uuid="66fc0d6af6a911d6a7a7000393670732">
+	<description>Image</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="5" uuid="7d468273c013498e9806a0d7bc32fddf">
 	<description>Project</description>
 	<manufacturer>Apple</manufacturer>
 	<version>1</version>
 </factory>
 
-<factory id="5" uuid="c329cc18a13f11d7a13e00039366fb58">
+<factory id="6" uuid="c329cc18a13f11d7a13e00039366fb58">
 	<description>Spin</description>
 	<manufacturer>Apple</manufacturer>
 	<version>1</version>
 </factory>
 
-<factory id="6" uuid="ec6a810f5a4c4fd0b298969462464ecd">
+<factory id="7" uuid="ec6a810f5a4c4fd0b298969462464ecd">
 	<description>3D Object</description>
 	<manufacturer>Apple</manufacturer>
 	<version>1</version>
@@ -73,7 +79,7 @@
 	<cameraType>0</cameraType>
 	<cameraName>Active Camera</cameraName>
 	<mirrorHMD>0</mirrorHMD>
-	<panZoom camera="0" zoom="0.32187500596046448" panX="18" panY="215" mode="2" centered="1"/>
+	<panZoom camera="0" zoom="0.78611111640930176" panX="54" panY="2" mode="2" centered="1"/>
 	<panZoom camera="1" zoom="0.068115234375" panX="19" panY="68" mode="2" centered="1"/>
 </viewer>
 
@@ -111,7 +117,7 @@
 	<displayEffects>1</displayEffects>
 	<videoVerticalZoom>1.5555599927902222</videoVerticalZoom>
 	<audioVerticalZoom>1.5555555820465088</audioVerticalZoom>
-	<displayRange in="-429648045 1609375000 3 0" out="4848843508 1000000000 3 0"/>
+	<displayRange in="-471660077 1531250000 3 0" out="5308022907 1000000000 3 0"/>
 </timeline>
 
 <curveeditor>
@@ -119,8 +125,8 @@
 	<snapping>0</snapping>
 	<displayAudioWaveform>0</displayAudioWaveform>
 	<lockKeyframesInTime>0</lockKeyframesInTime>
-	<displayRange in="-429648045 1609375000 3 0" out="4848843508 1000000000 3 0"/>
-	<currentviewvolume originx="-0.2669657755339806" originy="-62.5" width="5.115809284" height="125"/>
+	<displayRange in="-471660077 1531250000 3 0" out="5308022907 1000000000 3 0"/>
+	<currentviewvolume originx="-0.30802290742857141" originy="-62.5" width="5.6160458139999996" height="125"/>
 	<snapshotChannels>0</snapshotChannels>
 </curveeditor>
 
@@ -168,8 +174,7 @@
 	<publishSettings>
 		<version>2</version>
 	</publishSettings>
-	<currentFrame>0 1 1 0</currentFrame>
-	<currentObject>10000</currentObject>
+	<currentFrame>332800 153600 1 0</currentFrame>
 	<activeLayer>3001926287</activeLayer>
 	<timeRange offset="0 1 1 0" duration="768000 153600 1 0"/>
 	<playRange offset="0 153600 1 0" duration="768000 153600 1 0"/>
@@ -178,7 +183,7 @@
 	<timemarkerset/>
 	<guideset/>
 	<curvesets selected="1"/>
-	<scenenode name="Project" id="10000" factoryID="4" version="5">
+	<scenenode name="Project" id="10000" factoryID="5" version="5">
 		<scenenode name="Widget" id="10002" factoryID="3" version="5">
 			<flags>0</flags>
 			<timing in="0 1 1 0" out="-6400 153600 1 0" offset="0 1 1 0"/>
@@ -195,12 +200,85 @@
 		<flags>0</flags>
 		<timing in="0 1 1 0" out="-6400 153600 1 0" offset="0 1 1 0"/>
 		<foldFlags>0</foldFlags>
-		<baseFlags>17</baseFlags>
+		<baseFlags>16</baseFlags>
 		<parameter name="Properties" id="1" flags="8589938704"/>
 		<parameter name="Object" id="2" flags="8589938704"/>
 	</scenenode>
 	<layer name="Group" id="3001926287">
-		<scenenode name="Earth" id="3001926288" factoryID="6" version="5">
+		<scenenode name="spots" id="3001927617" factoryID="4" version="5">
+			<validTracks>1</validTracks>
+			<aspectRatio>1</aspectRatio>
+			<flags>0</flags>
+			<timing in="0 153600 1 0" out="-1280 153600 1 0" offset="0 153600 1 0"/>
+			<foldFlags>16384</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<enabled>0</enabled>
+			<parameter name="Properties" id="1" flags="8589938704">
+				<parameter name="Cinematic" id="344" flags="8589938706">
+					<foldFlags>131076</foldFlags>
+					<parameter name="Depth of Field" id="346" flags="8589934608" default="1.3999999999999999" value="2"/>
+					<parameter name="Focus Point" id="348" flags="8589938706">
+						<foldFlags>15</foldFlags>
+					</parameter>
+				</parameter>
+				<parameter name="Lighting" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Shadows" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Reflection" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="Drop Shadow" id="208" flags="8589971472">
+					<foldFlags>131087</foldFlags>
+					<parameter name="Color" id="210" flags="8589938704">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="Blur" id="213" flags="12884901904" default="10" value="10"/>
+				</parameter>
+				<parameter name="Media" id="324" flags="8589938704">
+					<parameter name="Source Media" id="300" flags="8590000144" default="0" value="3001927616"/>
+					<parameter name="Source Media" id="325" flags="8590000146"/>
+				</parameter>
+				<parameter name="Page Number" id="301" flags="12884901906" default="0" value="1"/>
+				<parameter name="Background Color" id="302" flags="8590004242">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Retime Value" id="304" flags="8590066066">
+					<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<keypoint interpolation="1" flags="0">
+							<time>0 153600 1 0</time>
+							<value>1</value>
+						</keypoint>
+						<keypoint interpolation="1" flags="0">
+							<time>5120 153600 1 0</time>
+							<value>1.8</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Retime Value Cache" id="319" flags="8590065810">
+					<curve type="1" default="1" value="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<keypoint interpolation="1" flags="128">
+							<time>0 153600 1 0</time>
+							<value>1</value>
+						</keypoint>
+						<keypoint interpolation="1" flags="128">
+							<time>5120 153600 1 0</time>
+							<value>1.8</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Duration Cache" id="320" flags="8589934610" default="0" value="0.80000000000000004"/>
+			</parameter>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Width" id="313" flags="12884901906" default="0" value="128"/>
+				<parameter name="Height" id="314" flags="12884901906" default="0" value="128"/>
+			</parameter>
+		</scenenode>
+		<scenenode name="Earth" id="3001926288" factoryID="7" version="5">
 			<aspectRatio>1</aspectRatio>
 			<flags>0</flags>
 			<timing in="0 153600 1 0" out="236800 153600 1 0" offset="0 153600 1 0"/>
@@ -265,7 +343,7 @@
 			<parameter name="Object" id="2" flags="8589938704">
 				<parameter name="Custom Unit Size" id="303" flags="12884934656" default="5.2005080480987331" value="5.2005080480987331"/>
 			</parameter>
-			<behavior name="Spin" id="3001926294" factoryID="5">
+			<behavior name="Spin" id="3001926294" factoryID="6">
 				<timing in="0 153600 1 0" out="236800 153600 1 0" offset="0 153600 1 0"/>
 				<baseFlags>8589934608</baseFlags>
 				<parameter name="Affect Subobjects" id="300" flags="8589934610" default="0" value="0"/>
@@ -301,6 +379,40 @@
 	</layer>
 
 	<footage name="Media Layer" id="3001924603">
+		<clip name="spots" id="3001927616">
+			<pathURL>file:///Applications/Motion.app/Contents/LibraryContent/Content.localized/Particle%20Images.localized/spots.png</pathURL>
+			<missingWidth>128</missingWidth>
+			<missingHeight>128</missingHeight>
+			<missingDuration>0.033333333333333333</missingDuration>
+			<creationDuration>1</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="0 153600 1 0" offset="0 153600 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704"/>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Alpha Type" id="100" flags="8589938704">
+					<parameter name="Alpha Type" id="101" flags="8590000128" default="0" value="2"/>
+					<parameter name="Alpha Color" id="102" flags="8589938688">
+						<foldFlags>15</foldFlags>
+					</parameter>
+				</parameter>
+				<parameter name="Pixel Aspect Ratio" id="104" flags="8589934592" default="1" value="1"/>
+				<parameter name="Frame Rate" id="107" flags="8589934592" default="0" value="30"/>
+				<parameter name="Fixed Width" id="114" flags="8589934594" default="128" value="0"/>
+				<parameter name="Fixed Height" id="115" flags="8589934594" default="128" value="0"/>
+				<parameter name="Use Background Color" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="Background Color" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="Red" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="Green" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="Blue" id="3" flags="8589967376" default="1" value="1"/>
+				</parameter>
+				<parameter name="Gamma" id="124" flags="12884901888" default="1.8" value="1.8"/>
+				<parameter name="Missing Is Still" id="128" flags="8589934610" default="0" value="1"/>
+			</parameter>
+		</clip>
 		<scenenode name="/Applications/Motion.app/Contents/LibraryContent/3D Objects.localized/Education.localized/Earth.usdz" id="3001926286" factoryID="2" version="5">
 			<pathURL>file:///Applications/Motion.app/Contents/LibraryContent/3D%20Objects.localized/Education.localized/Earth.usdz</pathURL>
 			<flags>0</flags>
