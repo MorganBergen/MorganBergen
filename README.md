@@ -26,5 +26,5 @@
             "user interface designer"
         ];
     }
-    
+
 </div>
