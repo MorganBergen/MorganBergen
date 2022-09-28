@@ -31,3 +31,5 @@
     }
 
 </div>
+
+`/contact-me.vcf` contains my contact information!
