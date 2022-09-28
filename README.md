@@ -32,4 +32,4 @@
 
 </div>
 
-`/contact-me.vcf` contains my contact information!
+`morganbergen/contact-me.vcf` contains my contact information!
