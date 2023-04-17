@@ -31,5 +31,3 @@
     }
 
 </div>
-
-[`morganbergen/contact-me.vcf`](https://github.com/MorganBergen/MorganBergen/blob/main/contact-me.vcf)
