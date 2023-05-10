@@ -14,8 +14,7 @@
 
         name: "Morgan Maha Bergen",
 
-        education: [
-            {
+        education: [ {
                 institution: "University of Kansas",
                 degree: "B.S. Computer Science",
                 year: "junior",
