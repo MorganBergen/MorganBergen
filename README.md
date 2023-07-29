@@ -24,8 +24,7 @@
 
         desired_roles: [
             "software engineer",
-            "blockchain engineer",
-            "data engineer"
+            "blockchain engineer"
         ];
     }
 
