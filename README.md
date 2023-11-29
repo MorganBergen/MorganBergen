@@ -17,8 +17,7 @@
         education: [ {
                 institution: "University of Kansas",
                 degree: "B.S. Computer Science",
-                year: "junior",
-                graduation_date: 2024
+                graduation_date: (unknown during this time)
             }
         ],
 
