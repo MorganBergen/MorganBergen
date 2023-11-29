@@ -4,11 +4,7 @@
     
 </h1>
 
-<p align="center">
-    <img align="right" src="https://github.com/MorganBergen/MorganBergen/blob/main/.logo.gif.icloud" alt="logo" width=50%>
-</p>
-
-<div align="left" width=50%>
+<div align="left" width=100%>
     
     let about_me = {
 
