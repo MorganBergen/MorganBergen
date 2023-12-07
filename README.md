@@ -13,13 +13,12 @@
         education: [ {
                 institution: "University of Kansas",
                 degree: "B.S. Computer Science",
-                graduation_date: unknown at this time
+                graduation_date: unknown
             }
         ],
 
         desired_roles: [
-            "software engineer",
-            "blockchain engineer"
+            "software engineer"
         ];
     }
 
