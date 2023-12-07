@@ -13,7 +13,7 @@
         education: [ {
                 institution: "University of Kansas",
                 degree: "B.S. Computer Science",
-                graduation_date: unknown
+                graduation_date: 2024
             }
         ],
 
