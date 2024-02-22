@@ -11,7 +11,7 @@
         name: "Morgan Maha Bergen",
 
         education: [ {
-                institution: "University of Kansas",
+                institution: "Wichita State University",
                 degree: "B.S. Computer Science",
                 graduation_date: 2024
             }
