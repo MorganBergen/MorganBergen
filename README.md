@@ -13,7 +13,7 @@
         education: [ {
                 institution: "Wichita State University",
                 degree: "B.S. Computer Science",
-                graduation_date: 2024
+                graduation_date: 2025
             }
         ],
 
