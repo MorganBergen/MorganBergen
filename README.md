@@ -65,6 +65,7 @@
             "eecs 399   projects",
             "eecs 510   introduction to the theory of computing",
             "eecs 560   data structures",
+            "eecs 461   probability and statistics for engineers",
             "math 526   applied mathmatical statistics 1",
         ];
 
