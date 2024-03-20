@@ -60,7 +60,6 @@
             "eecs 399   projects",
             "math 127   calculus 3",
             "math 290   elementary linear algebra",
-            "phsx 216   general physics 1 laboratory",
             "eecs 368   programming language paradigms",
             "eecs 399   projects",
             "eecs 510   introduction to the theory of computing",
@@ -68,6 +67,8 @@
             "eecs 461   probability and statistics for engineers",
             "math 526   applied mathmatical statistics 1",
         ];
+
+
 
     }
 
