@@ -3,24 +3,29 @@
 </h1>
 
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://github.com/user-attachments/assets/9cf2bf43-d4d9-410c-931b-f2a9b2da5020" alt="logo" style="width: 50%; margin-right: 20px;">
+    <!-- Code block on the left -->
+    <div style="width: 50%; padding-right: 20px;">
+        <code>
+            let about_me = { <br>
+                name: "Morgan Maha Bergen", <br>
+                education: [ <br>
+                    { <br>
+                        institution: "Wichita State University", <br>
+                        degree: "B.S. Computer Science", <br>
+                        year: "Senior", <br>
+                        graduation_date: 2025 <br>
+                    } <br>
+                ], <br>
+                desired_roles: [ <br>
+                    "software engineer", <br>
+                    "iOS application engineer" <br>
+                ] <br>
+            };
+        </code>
+    </div>
 
-        let about_me = {
-    
-            name: "Morgan Maha Bergen",
-    
-            education: [
-                {
-                    institution: "Wichita State University",
-                    degree: "B.S. Computer Science",
-                    year: "Senior",
-                    graduation_date: 2025
-                }
-            ],
-
-            desired_roles: [
-                "software engineer",
-                "iOS application engineer"
-            ];
-        }    
+    <!-- Image (globe) on the right -->
+    <div style="width: 50%;">
+        <img src="https://github.com/user-attachments/assets/9cf2bf43-d4d9-410c-931b-f2a9b2da5020" alt="globe" style="width: 100%;">
+    </div>
 </div>
