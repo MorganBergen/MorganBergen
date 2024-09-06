@@ -1,16 +1,12 @@
 <h1 align="center">
-    
     hello world!
-    
 </h1>
 
-<p align="center">
-    <img align="right" src="https://github.com/user-attachments/assets/9cf2bf43-d4d9-410c-931b-f2a9b2da5020">
-    alt="logo" width=50%>
-</p>
+<div style="display: flex; align-items: center; justify-content: center;">
+    <!-- Image on the left -->
+    <img src="https://github.com/user-attachments/assets/9cf2bf43-d4d9-410c-931b-f2a9b2da5020" alt="logo" style="width: 50%; margin-right: 20px;">
 
-<div align="left" width=50%>   
-</div>
+    <!-- Code block on the right -->
     <code>
         let about_me = {
     
@@ -30,6 +26,5 @@
                 "iOS application engineer"
             ];
         }    
-</code>
-    
-
+    </code>
+</div>
