@@ -9,8 +9,9 @@
     alt="logo" width=50%>
 </p>
 
-<div align="left" width=50%>
-<code>
+<div align="left" width=50%>   
+</div>
+    <code>
         let about_me = {
     
             name: "Morgan Maha Bergen",
@@ -31,4 +32,4 @@
         }    
 </code>
     
-</div>
+
