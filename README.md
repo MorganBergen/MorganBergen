@@ -3,10 +3,12 @@
 </h1>
 
 <div style="display: flex; align-items: left; justify-content: left;">
-    <!-- Image on the left -->
-    <img src="https://github.com/user-attachments/assets/9cf2bf43-d4d9-410c-931b-f2a9b2da5020" alt="logo" style="width: 50%; margin-right: 20px;">
+    
+<div align-items: left;">
 
-    <code>
+    <img src="https://github.com/user-attachments/assets/9cf2bf43-d4d9-410c-931b-f2a9b2da5020" alt="logo" style="width: 50%; margin-right: 20px;">
+</div>
+<div align-items: left;">
         let about_me = {
     
             name: "Morgan Maha Bergen",
@@ -25,5 +27,5 @@
                 "iOS application engineer"
             ];
         }    
-    </code>
+</div>
 </div>
