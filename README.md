@@ -1,26 +1,34 @@
 <h1 align="center">
     
-<code>about_me</code>
+    hello world!
     
 </h1>
 
-<div align="left" width=100%>
+<p align="center">
+    <img align="right" src="https://github.com/user-attachments/assets/9cf2bf43-d4d9-410c-931b-f2a9b2da5020">
+    alt="logo" width=50%>
+</p>
+
+<div align="left" width=50%>
+<code>
+        let about_me = {
     
-    let about = {
+            name: "Morgan Maha Bergen",
+    
+            education: [
+                {
+                    institution: "Wichita State University",
+                    degree: "B.S. Computer Science",
+                    year: "Senior",
+                    graduation_date: 2025
+                }
+            ],
 
-        name: "Morgan Maha Bergen",
-
-        education: [ {
-                institution: "Wichita State University",
-                degree: "B.S. Computer Science",
-                graduation_date: 2025
-            }
-        ];
-
-        desired_role: [
-            "software engineer"
-        ];
-
-    }
-
+            desired_roles: [
+                "software engineer",
+                "iOS application engineer"
+            ];
+        }    
+</code>
+    
 </div>
